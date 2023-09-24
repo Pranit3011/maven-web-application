@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://3.110.118.33:8081/pranittech/repository/walmart-snapshot/</url>
+	      <url>http:http://3.110.118.33:8081/pranittech/repository/walmart-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
