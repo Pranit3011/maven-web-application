@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http:http://3.110.118.33:8081/pranittech/repository/walmart-release/</url>
+	      <url>http:http://3.110.118.33:8081/pranittech/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://3.110.118.33:8081/pranittech/repository/walmart-Snapshot/</url>
+	      <url>http:http://3.110.118.33:8081/pranittech/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
