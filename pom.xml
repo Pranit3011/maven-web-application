@@ -89,14 +89,14 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <id>nexus-releases</id>
+	      <name>releases</name>
 	      <url>http://3.108.249.91:8081/pranittech/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <id>nexus-snapshots</id>
+	      <name>snapshots</name>
 	      <url>http://3.108.249.91:8081/pranittech/repository/walmart-snapshots/</url>
 	    </snapshotRepository>
 	    
