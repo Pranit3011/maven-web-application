@@ -101,7 +101,12 @@
 	      <url>http://3.108.249.91:8081/pranittech/repository/walmart-release/</url>
 	    </repository>
 	    
-	    
+	   <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://3.108.249.91:8081/pranittech/repository/walmart-Snapshot/</url>
+	    </snapshotRepository> 
+		
 	</distributionManagement>
 	
 	<build>
