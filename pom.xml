@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repositor</name>
-	      <url>http://3.7.71.78:8081/pranittech/repository/pranir-release/</url>
+	      <url>http://65.0.61.176:8081/pranittech/repository/release-sample/</url>
 	    </repository>
 	    
 	  <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.7.71.78:8081/pranittech/repository/walmart-Snapshot/</url>
+	      <url>http://65.0.61.176:8081/pranittech/repository/snapshot-sample/</url>
 	    </snapshotRepository> 
 		
 	</distributionManagement>
